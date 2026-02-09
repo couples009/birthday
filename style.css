@@ -691,7 +691,7 @@ body {
         justify-content: center;
         align-items: center;
         transform: scale(0);
-        animation: scaleCricle 3s 15s forwards ease-in-out;
+        animation: scaleCricle 3s 10s forwards ease-in-out;
     }
 
     .title .hat {
@@ -843,5 +843,6 @@ h1 {
 }
 
     
+
 
 }
